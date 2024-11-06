@@ -10,7 +10,7 @@
    xml:space="preserve"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="back.svg"
-   inkscape:export-filename="back_white.png"
+   inkscape:export-filename="shirt_back.png"
    inkscape:export-xdpi="300.02777"
    inkscape:export-ydpi="300.02777"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -34,12 +34,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.5760803"
-     inkscape:cx="386.71887"
+     inkscape:cx="296.93919"
      inkscape:cy="562.78858"
-     inkscape:window-width="1918"
+     inkscape:window-width="2288"
      inkscape:window-height="2054"
-     inkscape:window-x="-10"
-     inkscape:window-y="0"
+     inkscape:window-x="1483"
+     inkscape:window-y="34"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" /><defs
      id="defs2"><rect
@@ -161,9 +161,9 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter1089"
-       x="-0.023538532"
+       x="-0.024324343"
        y="-0.26814461"
-       width="1.0470771"
+       width="1.0486487"
        height="1.5362892"><feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.85539769"
@@ -246,9 +246,9 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter1089-0"
-       x="-0.023538532"
+       x="-0.024324343"
        y="-0.26814461"
-       width="1.0470771"
+       width="1.0486487"
        height="1.5362892"><feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.85539769"
@@ -307,9 +307,9 @@
      y="-9.2251701"><tspan
        x="285.33984"
        y="362.46951"
-       id="tspan1752"><tspan
+       id="tspan1741"><tspan
          style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-         id="tspan1750">2024</tspan></tspan></text><text
+         id="tspan1739">2024</tspan></tspan></text><text
      style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect414);display:inline;fill:#18a5f1;fill-opacity:1;stroke:none;stroke-width:0.264583"
      id="text412"
      transform="rotate(-15.139957,-4.7035237,1.1929203)"
@@ -318,9 +318,9 @@
      y="-10.198164"><tspan
        x="285.33984"
        y="362.46951"
-       id="tspan1756"><tspan
+       id="tspan1745"><tspan
          style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold';fill:#ffff00"
-         id="tspan1754">2024</tspan></tspan></text></g>
+         id="tspan1743">2024</tspan></tspan></text></g>
 <text
    xml:space="preserve"
    transform="scale(0.26458333)"
@@ -335,7 +335,7 @@
    transform="matrix(0.84764186,0,0,1,27.127548,-0.71223022)"><tspan
      x="135.32375"
      y="80.244598"
-     id="tspan1758">Bus Leaves at:</tspan></text>
+     id="tspan1747">Bus Leaves at:</tspan></text>
 <text
    xml:space="preserve"
    transform="matrix(0.1992276,0,0,0.26458333,-11.872644,0.13955071)"
@@ -343,11 +343,11 @@
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect467);shape-padding:0;display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
      x="157.92383"
      y="343.36821"
-     id="tspan1764">B<tspan
+     id="tspan1753">B<tspan
    style="font-size:33.804px"
-   id="tspan1760">ELLBOWRIE</tspan> T<tspan
+   id="tspan1749">ELLBOWRIE</tspan> T<tspan
    style="font-size:33.804px"
-   id="tspan1762">AVERN </tspan>    </tspan></text>
+   id="tspan1751">AVERN </tspan>    </tspan></text>
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24923"
@@ -658,18 +658,18 @@
    transform="matrix(0.84764186,0,0,1,26.869617,-0.92774271)"><tspan
      x="135.32375"
      y="80.244598"
-     id="tspan1766">Bus Leaves at:</tspan></text><text
+     id="tspan1755">Bus Leaves at:</tspan></text><text
    xml:space="preserve"
    transform="matrix(0.1992276,0,0,0.26458333,-12.130575,-0.07596171)"
    id="text465-7"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect467-8);shape-padding:0;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"><tspan
      x="157.92383"
      y="343.36821"
-     id="tspan1772">B<tspan
+     id="tspan1761">B<tspan
    style="font-size:33.804px"
-   id="tspan1768">ELLBOWRIE</tspan> T<tspan
+   id="tspan1757">ELLBOWRIE</tspan> T<tspan
    style="font-size:33.804px"
-   id="tspan1770">AVERN </tspan>    </tspan></text><text
+   id="tspan1759">AVERN </tspan>    </tspan></text><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.24923"
    x="169.92696"
